@@ -22,7 +22,7 @@ while True:
     #print('a + b - c의 결과는? ' + str(sub(add(c, b), a)))   # comment this on 1st change
     #print('a + b - c의 결과는? ' + str(add(sub(b, a), c)))  # uncomment this on 1st change
                                                              # comment above line on 2nd change
-    print('a + b - c의 결과는? ' + str(sub(add(a, b), c)))  # uncomment this on 2nd change
+    #print('a + b - c의 결과는? ' + str(sub(add(a, b), c)))  # uncomment this on 2nd change
 	                                                         # comment above line on scenario 3
     #######################
 
@@ -37,5 +37,5 @@ while True:
 
     #######################
 
-    print()
+    print(div(mul(a,b),c))
 
