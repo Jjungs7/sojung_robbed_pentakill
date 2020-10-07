@@ -10,5 +10,5 @@ def add(a, b):
 
 def div(a, b):
     # your code here! (상황 3)
-    return 20201004
+    return a / b
 
