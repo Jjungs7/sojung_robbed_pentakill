@@ -19,10 +19,10 @@ while True:
     # 첫 안내에는 "1st change" 부분을,
     # 두 번째 안내에는 "2nd change" 부분을 바꿔주세요
 
-    print('a + b - c의 결과는? ' + str(sub(add(c, b), a)))   # comment this on 1st change
+    #print('a + b - c의 결과는? ' + str(sub(add(c, b), a)))   # comment this on 1st change
     #print('a + b - c의 결과는? ' + str(add(sub(b, a), c)))  # uncomment this on 1st change
                                                              # comment above line on 2nd change
-    #print('a + b - c의 결과는? ' + str(sub(add(a, b), c)))  # uncomment this on 2nd change
+    print('a + b - c의 결과는? ' + str(sub(add(a, b), c)))  # uncomment this on 2nd change
 	                                                         # comment above line on scenario 3
     #######################
 
